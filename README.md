@@ -3,8 +3,7 @@
 9
 
 ## Текущие запреты:
-![image](https://github.com/user-attachments/assets/006c6db4-c61e-44b1-9768-46b9ee3b9012)
-![image](https://github.com/user-attachments/assets/16ed6720-8c0b-44ac-ab57-26df3b35d9e8)
+v1.87.* v1.88.????.0
 
 ## Неудачная попытки пуша тегов
 ```
@@ -29,3 +28,7 @@ To https://github.com/akapcodelab/tags-test.git
  ! [remote rejected] v1.88.1324.0 -> v1.88.1324.0 (push declined due to repository rule violations)
 error: failed to push some refs to 'https://github.com/akapcodelab/tags-test.git'
 ```
+
+## Настройки гитхаба:
+![image](https://github.com/user-attachments/assets/006c6db4-c61e-44b1-9768-46b9ee3b9012)
+![image](https://github.com/user-attachments/assets/16ed6720-8c0b-44ac-ab57-26df3b35d9e8)
